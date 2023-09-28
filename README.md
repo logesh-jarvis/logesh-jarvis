@@ -4,8 +4,9 @@
 </h3>
 
 #### About 🌏
-- I build scalable systems in EduTech domain.
-- I'm curious about how things work and often try to learn by breaking them apart.
+- I build scalable systems in EdTech domain.
+- I'm curious about learning experimenting new things.
+- Currently learning DevOps
 
 #### Work 🔭
 - Senior software engineer at **[Iamneo.ai](https://iamneo.ai)** (Present).
